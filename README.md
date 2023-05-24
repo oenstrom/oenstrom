@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/oenstrom/oenstrom/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
