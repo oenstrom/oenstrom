@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=oenstrom&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
